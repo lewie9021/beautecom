@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "brand": "Morphe",
+        "name": "15N Night Master Palette",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/V0v8C9Q9mmM6gMc84C0kS/d9d48443861c6dfaf76324d346db34f3/MOBR0969F_1_L.jpg",
+        "price": "£15.00",
+        "stock": 0
+    },
+    {
+        "id": 2,
+        "brand": "NuMe",
+        "name": "Signature Tourmaline Ionic Hair Dryer",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/NUME0008H_1_L.jpg/bb4b6550f1c44a63ed84a867124ad62b/NUME0008H_1_L.jpg",
+        "price": "£91.00",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "brand": "Jeffree Star Cosmetics",
+        "name": "Lip Ammunition Holiday Collection",
+        "description": "<p>A new Jeffree Star lipstick.</p>↵<p>Formulated with the same Lip Ammunition formula, Lip Ammunition Holiday Collection contains four new festive shades. Suitable for full coverage colour or glittering top coats, apply as desired to boldly enhance and deeply moisturise. </p>↵<p><strong><u>Shades Available:</u></strong></p>↵<ul>↵<li>Redrum – A classic blue-toned red. </li>↵<li>Allegedly – A brown terra-cotta nude. </li>↵<li>Gargoyle – A slate grey. </li>↵<li>Champagne Tears – A glittering champagne topcoat or colour. </li>↵</ul>",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/4SzhicZMcMyQEQ4i2Akkys/e0a49e90b55962fe23fef445af185b8c/jeffreestarholidaylipammunition_1_gl.jpg",
+        "price": "£16.00",
+        "stock": 31
+    },
+    {
+        "id": 4,
+        "brand": "Morphe",
+        "name": "15N Night Master Palette",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/V0v8C9Q9mmM6gMc84C0kS/d9d48443861c6dfaf76324d346db34f3/MOBR0969F_1_L.jpg",
+        "price": "£15.00",
+        "stock": 0
+    },
+    {
+        "id": 5,
+        "brand": "NuMe",
+        "name": "Signature Tourmaline Ionic Hair Dryer",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/NUME0008H_1_L.jpg/bb4b6550f1c44a63ed84a867124ad62b/NUME0008H_1_L.jpg",
+        "price": "£91.00",
+        "stock": 5
+    },
+    {
+        "id": 7,
+        "brand": "Jeffree Star Cosmetics",
+        "name": "Lip Ammunition Holiday Collection",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/4SzhicZMcMyQEQ4i2Akkys/e0a49e90b55962fe23fef445af185b8c/jeffreestarholidaylipammunition_1_gl.jpg",
+        "price": "£16.00",
+        "stock": 31
+    },
+    {
+        "id": 8,
+        "brand": "NuMe",
+        "name": "Signature Tourmaline Ionic Hair Dryer",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/NUME0008H_1_L.jpg/bb4b6550f1c44a63ed84a867124ad62b/NUME0008H_1_L.jpg",
+        "price": "£91.00",
+        "stock": 5
+    },
+    {
+        "id": 9,
+        "brand": "Jeffree Star Cosmetics",
+        "name": "Lip Ammunition Holiday Collection",
+        "imageUrl": "https://images.beautybay.com/eoaaqxyywn6o/4SzhicZMcMyQEQ4i2Akkys/e0a49e90b55962fe23fef445af185b8c/jeffreestarholidaylipammunition_1_gl.jpg",
+        "price": "£16.00",
+        "stock": 31
+    }
+]

@@ -1,0 +1,15 @@
+{
+   "expo": {
+    "name": "BeautEcom",
+    "icon": "./app-icon.png",
+    "version": "1.0.0",
+    "slug": "beautecom",
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "com.lewie9021.beautecom"
+    },
+    "android": {
+      "package": "com.lewie9021.beautecom"
+    }
+   }
+ }
